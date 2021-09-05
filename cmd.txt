@@ -1,0 +1,33 @@
+cmd命令：
+color 			颜色值,设置cmd控制台前景和背景颜色；0=黑、1=蓝、2=绿、3=浅绿、4=红、5=紫、6=黄、7=白、8=灰、9=淡蓝、A=淡绿、B=淡浅绿、C=淡红、D=淡紫、E=淡黄、F=亮白
+md 目录名		创建目录
+cd..			返回上层目录
+cd / 			回到根目录
+cdup 			返回上一级目录
+cd remote－dir 	进入远程主机目录 
+cd up 			进入远程主机目录的父目录
+explorer    	打开资源管理器
+logoff    		注销命令
+shutdown  		60秒倒计时关机
+notepad   		打开记事本
+compmgmt.msc	计算机管理
+dvdplay			DVD播放器
+charmap			启动字符映射表
+calc			启动计算器
+taskmgr  		任务管理器
+write			写字板
+mspaint			画图板
+mstsc			远程桌面连接
+magnify			放大镜实用程序
+mmc				打开控制台
+fsmgmt.msc		共享文件夹管理器
+osk				打开屏幕键盘
+net user        用户名　密码
+net start 		查看开启了哪些服务
+net stop 		服务名 停止某服务
+ping ip			ping同ip否
+ipconfig		查看本机ip
+ver 			在DOS窗口下显示版本信息
+tree			以树形结构显示目录
+exit 			退出cmd.exe程序
+help 			查看命令说明
