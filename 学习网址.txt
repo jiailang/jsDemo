@@ -1,0 +1,27 @@
+﻿npm -v 查看npm版本
+npm install npm -g 升级npm版本
+
+node -v 查看node版本
+npm install node -g 升级node版本
+
+淘宝镜像: https://npm.taobao.org
+
+智联招聘网: https://www.zhaopin.com
+
+苹果DJ网站: http://www.pingguodj.com
+
+vscode官网: https://code.visualstudio.com
+
+webpack中文官网: https://www.webpackjs.com
+
+南京普通话网: http://www.pthcs.com/default.php
+
+苹果官网: https://appleid.apple.com/#!&page=signin
+
+weinre的使用参考: http://www.cnblogs.com/diva/p/3995674.html
+
+原生ajax代码：https://www.cnblogs.com/snandy/category/285215.html
+
+Vue Cli安装以及使用: https://www.cnblogs.com/liuqiuyue/p/9699796.html
+
+对移动端兼容适配的分析: https://www.cnblogs.com/paul123/p/11073465.html
